@@ -1,4 +1,4 @@
-# 159261 Assignment 2 - Space Platformer Game
+# Space Platformer Game - 159261 Assignment 2
 
 ## Team Members
 - Any Kwok
@@ -36,7 +36,7 @@ In the game "Space Platformer Game," players guide an astronaut stranded on a pl
 - [Red Rocket Ship Vector](https://pngtree.com/freepng/red-rocket-ship_4729614.html)
 - [Pixel art Planet](https://www.pngwing.com/en/free-png-iymqr/download)
 - [Platformer Pack Redux](https://www.kenney.nl/assets/platformer-pack-redux)
-- [Space-Based Shoot-'Em-Up Sprites](https://gamedevelopment.tutsplus.com/enjoy-these-totally-free-space-based-shoot-em-up-sprites--ga medev-2368a)
+- [Space-Based Shoot-'Em-Up Sprites](https://gamedevelopment.tutsplus.com/enjoy-these-totally-free-space-based-shoot-em-up-sprites--gamedev-2368a)
 - [Textures Sprite Sheet](https://piiixl.itch.io/textures)
 - [Vector Fuel Station Icon](https://pngtree.com/freepng/vector-fuel-station-icon_4237302.html)
 
